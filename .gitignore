@@ -1,0 +1,11 @@
+# Local cleanup archive
+_cleanup_archive/
+
+# LaTeX build artifacts
+*.aux
+*.log
+
+# Local temporary extracts/datasets
+tmp_*.csv
+tmp_*.txt
+tmp_*.xlsx

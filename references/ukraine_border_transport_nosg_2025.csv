@@ -1,0 +1,13 @@
+month,source_pdf,buses,cars,motorcycles,trucks,passenger_trains,freight_trains,other,total_transport_units
+1,https://nadbuzanski.strazgraniczna.pl/download/12/305982/ruchdointernetu-styczen2025.pdf,7014,62617,29,60728,378,746,0,131512
+2,https://nadbuzanski.strazgraniczna.pl/download/12/309191/Luty2025.pdf,5795,54775,41,62030,346,710,5,123702
+3,https://nadbuzanski.strazgraniczna.pl/download/12/309852/marzec2025.pdf,6642,61217,73,71468,381,771,5,140557
+4,https://nadbuzanski.strazgraniczna.pl/download/12/312014/ruchdointernetu-kwiecien2025.pdf,6736,66878,128,62423,364,790,3,137322
+5,https://nadbuzanski.strazgraniczna.pl/download/12/314917/Maj2025.pdf,7200,69996,261,69643,352,807,4,148263
+6,https://nadbuzanski.strazgraniczna.pl/download/12/325470/ruchdointernetu-czerwiec2025.pdf,7385,74341,279,68852,365,797,1,152020
+7,https://nadbuzanski.strazgraniczna.pl/download/12/326883/ruchdointernetu-lipiec2025.pdf,7905,79489,314,72773,372,836,6,161695
+8,https://nadbuzanski.strazgraniczna.pl/download/12/328615/ruchdointernetu-sierpien2025.pdf,7994,86206,369,71726,373,776,8,167452
+9,https://nadbuzanski.strazgraniczna.pl/download/12/331715/ruchdointernetu-wrzesien2025.pdf,7110,73802,192,71318,299,758,4,153483
+10,https://nadbuzanski.strazgraniczna.pl/download/12/334105/ruchdointernetu-pazdziernik2025.pdf,7097,73894,105,74088,311,799,9,156303
+11,https://nadbuzanski.strazgraniczna.pl/download/12/337007/ruchdointernetu-listopad2025.pdf,6582,65341,76,67502,304,721,3,140529
+12,https://nadbuzanski.strazgraniczna.pl/download/12/338326/ruchdointernetu-grudzien2025.pdf,7145,67191,50,65771,342,784,7,141290
