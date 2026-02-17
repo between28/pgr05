@@ -104,7 +104,73 @@
 
 ---
 
-## 5) 출처
+## 5) 지정학 위기 인접지에서도 집행된 공식 선례 (발표 설득용)
+
+## 선례 A. 전쟁 인접 Interreg 예산을 EU가 공식 승인/확대
+- European Commission(2022-12-02) 발표:
+  - 우크라이나·몰도바 포함 4개 Interreg 프로그램에 `EUR 533m` 승인
+  - `Poland-Ukraine EUR 187m`, `Romania-Ukraine EUR 54m` 포함
+  - 러시아/벨라루스 협력 중단 후 `EUR 26.2m`를 우크라이나·몰도바 협력으로 재배치
+
+해석:
+- 지정학 위기 상황에서도 EU는 단순 중단이 아니라 `재배치 + 우선지원`으로 대응한 선례가 있음.
+
+## 선례 B. Poland-Ukraine 프로그램은 전쟁 중에도 실제 집행 계속
+- Interreg NEXT PL-UA 공식 페이지:
+  - EC 채택일 `2022-11-30`
+  - EU 배정 `EUR 235.9m` (프로젝트 최소 `EUR 214.4m`)
+- 2025년 기준 공식 프로젝트 DB:
+  - Monitoring Committee 선정 `72개 프로젝트`
+  - `Bridge850PL-UA`, `SafeRoad4All`, `DriveConnect`, `CrossBorderRoads` 등 도로·접근성 사업 포함
+- 폴란드 정부(2025-10-08) 공식 발표:
+  - 폴란드-우크라이나 접경 신규 6개 프로젝트에 `EUR 57.6m` 결정
+
+해석:
+- "접경 불안정 때문에 투자 불가"가 아니라, `접경 회복력 프로젝트를 오히려 우선 배치`한 실집행 선례가 확인됨.
+
+## 선례 C. Romania-Ukraine 프로그램도 2024-2025 콜/계약 지속
+- 공식 프로그램 사이트(Managing Authority 공지):
+  - 2차 small-scale 콜(2025-04-28 오픈, 예산 `EUR 15,605,083`)
+  - 2차 콜 접수 `103건`(2025-07-29 공지)
+  - 2025-08-07 기준 `49개 프로젝트`, 총 `EUR 39,458,008.66` 계약 완료 공지
+
+해석:
+- 전쟁 인접권에서도 `콜 오픈 -> 평가 -> 계약`의 프로그램 사이클이 실제로 작동하고 있음.
+
+## 선례 D. HUSKROUA도 2025년에 2차 콜 오픈
+- Interreg VI-A NEXT Hungary-Slovakia-Romania-Ukraine 공식 공지:
+  - 2차 콜 2025-09-05 시작
+  - EU 기여금 `EUR 28.5m`
+  - 인프라 포함 정규 프로젝트 접수기한은 2026-02-15로 공지되었고, 이후 2026-02-26까지 연장 공지됨
+
+해석:
+- 분쟁 인접 다국경 프로그램도 `단년도 단발성`이 아니라 `연속 라운드`로 운영 가능함.
+
+## 선례 E. Solidarity Lanes: 고위험 접경 연결에 대규모 CEF 투입
+- EC Transport 공식 페이지:
+  - Solidarity Lanes 관련 동원액 `EUR 2.3bn+`
+  - 이 중 CEF 무상보조 `EUR 1.55bn`
+  - `38개` 교통 프로젝트를 통해 EU-우크라이나 연결성 강화
+
+해석:
+- 지정학 리스크가 큰 접경축일수록, 전략적 연결성 프레임으로 대형 공공재원 유치가 가능함.
+
+## 선례 F. (비EU 지역) 분쟁 상황에서도 공공 패키지 집행: Palestine
+- European Commission(2025-04-14):
+  - 2025-2027 회복·회복탄력 패키지 `최대 EUR 1.6bn`
+- EIB(2025-09-24):
+  - 같은 프레임 내 민간부문 금융접근용 `EUR 400m` 금융시설 서명
+
+해석:
+- 분쟁/불안정 환경 자체가 공공지원 배제 사유가 아니라, `거버넌스+회복탄력+민간생태계` 결합 설계로 자금집행이 가능함.
+
+## 발표에서 바로 쓰는 문장(추가)
+- `European precedents show that geopolitical risk is not a disqualifier; it is a design parameter for resilient cross-border investment.`
+- `In war-adjacent corridors, programmes have continued through calls, contracting, and infrastructure delivery, which supports our phased Lubelskie strategy.`
+
+---
+
+## 6) 출처
 
 - GUS (Dec 2025 unemployment by powiat, XLSX):
   - https://stat.gov.pl/obszary-tematyczne/rynek-pracy/bezrobocie-rejestrowane/bezrobotni-zarejestrowani-i-stopa-bezrobocia-stan-w-koncu-grudnia-2025-r-,2,161.html
@@ -115,3 +181,23 @@
 - RIS 2030 Lubelskie (repo PDF)
 - Kohesio project database:
   - https://kohesio.ec.europa.eu/en/
+- EU Cohesion policy with Ukraine/Moldova (`EUR 533m`, 2022-12-02):
+  - https://enlargement.ec.europa.eu/news/eu-cohesion-policy-over-eu530-million-territorial-cooperation-including-ukraine-and-moldova-2021-2022-12-02_en
+- Interreg NEXT Poland-Ukraine official programme page:
+  - https://pl-ua.eu/en/programme/about-the-programme/
+- Interreg NEXT Poland-Ukraine projects database (`72 projects selected so far`):
+  - https://pl-ua.eu/en/projects-database/
+- Poland government release on `EUR 57.6m` new PL-UA projects (2025-10-08):
+  - https://www.gov.pl/web/fundusze-regiony/ponad-576-mln-euro-na-infrastrukture-i-wspolprace-na-polsko-ukrainskim-pograniczu
+- Interreg NEXT Romania-Ukraine official call/contract notices:
+  - https://ro-ua.net/en/comunication-2021-2027/noutati-2021-2027/1662-launching-of-the-second-call-for-small-scale-projects-within-the-interreg-next-vi-a-romania-ukraine-programme-2021-2027
+  - https://ro-ua.net/en/comunication-2021-2027/noutati-2021-2027/1698-great-interest-in-the-2nd-call-for-small-scale-projects
+  - https://ro-ua.net/en/comunication-2021-2027/noutati-2021-2027/1701-the-managing-authority-of-the-interreg-next-via-romania-ukraine-2021-2027-programme-announces-the-completion-of-the-contracting-process-for-the-projects-approved-by-the-programme-monitoring-committee
+- Interreg VI-A NEXT HUSKROUA 2nd call (2025):
+  - https://next.huskroua-cbc.eu/calls/2nd-call-for-proposals/
+- EC Transport, EU funding for Solidarity Lanes:
+  - https://transport.ec.europa.eu/ukraine/eu-ukraine-solidarity-lanes/eu-funding-better-transport-connections_en
+- European Commission Palestine package (`up to EUR 1.6bn`, 2025-2027):
+  - https://north-africa-middle-east-gulf.ec.europa.eu/news/commission-announces-multiannual-programme-palestinian-recovery-and-resilience-worth-eu16-billion-2025-04-14_en
+- EIB-EC Palestine facility (`EUR 400m`, 2025-09-24):
+  - https://www.eib.org/en/press/all/2025-346-eib-and-european-commission-support-palestine-s-economic-resilience-with-eur400-million-facility-for-local-businesses
