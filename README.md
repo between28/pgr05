@@ -1,4 +1,4 @@
-﻿# pgr05 Workspace
+# pgr05 Workspace
 
 This repository supports two deliverables:
 - `presentation_5min/` for the in-class 5-minute policy briefing

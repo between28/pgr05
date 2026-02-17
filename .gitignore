@@ -1,11 +1,46 @@
 # Local cleanup archive
 _cleanup_archive/
 
-# LaTeX build artifacts
-*.aux
-*.log
-
 # Local temporary extracts/datasets
 tmp_*.csv
 tmp_*.txt
 tmp_*.xlsx
+
+# LaTeX artifacts
+*.aux
+*.log
+*.out
+*.toc
+
+# Python cache/env
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+env/
+ENV/
+.env
+
+# Build/distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Testing/tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Notebook/editor
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
